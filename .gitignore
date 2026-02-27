@@ -1,0 +1,6 @@
+Backend/__pycache__
+Backend/Agents/__pycache__
+Backend/python-clients
+Backend/.env
+
+frontend/node_modules
